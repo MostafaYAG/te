@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "CustomFont";
+    src: url("./Vazir.woff");
+    src: url("./Vazir.woff") format("woff"),
+    url("./Vazir.woff") format("opentype"),
+    url("./Vazir.woff") format("svg");
+}
+.welcome{
+font-family: "costomfont";
+}
